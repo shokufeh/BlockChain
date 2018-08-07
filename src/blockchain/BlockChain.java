@@ -1,12 +1,12 @@
 
 
-package noobchain;
+package blockchain;
 
 
 import java.util.ArrayList;
 import com.google.gson.GsonBuilder;
 
-public class NoobChain {
+public class BlockChain {
 	
 	public static ArrayList<Block> blockchain = new ArrayList<Block>();
 	public static int difficulty = 50;

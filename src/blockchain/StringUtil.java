@@ -1,4 +1,4 @@
-package noobchain;
+package blockchain;
 
 import java.security.MessageDigest;
 
